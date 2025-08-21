@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPS2NTP", "GPS2NTP.csproj", "{44D7E6A0-8916-455A-81DB-B3D65535B91C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D7E6A0-8916-455A-81DB-B3D65535B91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D7E6A0-8916-455A-81DB-B3D65535B91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D7E6A0-8916-455A-81DB-B3D65535B91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D7E6A0-8916-455A-81DB-B3D65535B91C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B8AA1F-5D8C-4D0D-B0D8-FE20642059FF}
+	EndGlobalSection
+EndGlobal
